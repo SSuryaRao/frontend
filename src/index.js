@@ -12,6 +12,7 @@ import Hero3 from './landing_page/landslide/Hero3';
 import Hero4 from './landing_page/helpline/Hero4';
 import NotFound from './landing_page/NotFound';
 import App from './App';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
