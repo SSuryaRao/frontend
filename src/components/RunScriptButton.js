@@ -11,11 +11,7 @@ function RunScriptButton() {
     }
   };
 
-  return (
-    <button onClick={runScript}>
-      
-    </button>
-  );
+  return null;
 }
 
 export default RunScriptButton;
